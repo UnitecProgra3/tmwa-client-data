@@ -9,10 +9,10 @@
   <property name="overlay0scrollX" value="0.7"/>
   <property name="overlay0scrollY" value="0.5"/>
 
-<property name="overlay20image2" value="graphics/images/ambient/clouds.png"/>
-  <property name="overlay20parallax2" value="1.0"/>
-  <property name="overlay20scrollX2" value="0.7"/>
-  <property name="overlay20scrollY2" value="0.5"/>
+<property name="overlay0image2" value="graphics/images/ambient/clouds.png"/>
+  <property name="overlay0parallax2" value="1.0"/>
+  <property name="overlay0scrollX2" value="0.7"/>
+  <property name="overlay0scrollY2" value="0.5"/>
  </properties>
  <tileset firstgid="1" source="../tilesets/collision.tsx"/>
  <tileset firstgid="3" source="../tilesets/desert1.tsx"/>
