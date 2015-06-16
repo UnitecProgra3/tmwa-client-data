@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="140" height="140" tilewidth="32" tileheight="32">
+<map version="1.0" orientation="orthogonal" width="140" height="140" tilewidth="32" tileheight="32">
  <properties>
   <property name="minimap" value="graphics/minimaps/001-1.png"/>
-  <property name="music" value="peace.ogg"/>
+  <property name="music" value="faith.ogg"/>
   <property name="name" value="Tulimshar Port"/>
  </properties>
  <tileset firstgid="1" source="../tilesets/collision.tsx"/>
@@ -1318,4 +1318,5 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
+ <objectgroup name="Objects" width="0" height="0"/>
 </map>
