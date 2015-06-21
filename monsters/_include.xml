@@ -129,4 +129,5 @@
   <include name="monsters/monster1132_LavaSlime.xml"/>
   <include name="monsters/monster1133_MiMob.xml"/>
   <include name="monsters/monster1135_KenyMob.xml"/>
+  <include name="monsters/monster1134_Kevinstein.xml"/>
 </monsters>
