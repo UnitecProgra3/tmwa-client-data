@@ -217,5 +217,7 @@
   <include name="npcs/npc777.xml"/>
   <include name="npcs/npc778.xml"/>
   <include name="npcs/npc779.xml"/>
-  <include name="npcs/npc780.xml"/>  
+  <include name="npcs/npc780.xml"/>
+  <include name="npcs/npc783.xml"/>
+  <include name="npcs/npc277.xml"/>
 </npcs>
