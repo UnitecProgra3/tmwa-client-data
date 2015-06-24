@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="050">
+    <sprite>model/huevi.xml</sprite>
+
+  </npc>
+</npcs>
