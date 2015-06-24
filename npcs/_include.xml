@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <npcs>
-  <include name="npcs/npc022.xml"/>
+  <include name="npcs/npc785.xml"/>
   <include name="npcs/npc100.xml"/>
   <include name="npcs/npc101.xml"/>
   <include name="npcs/npc102.xml"/>
@@ -218,5 +218,5 @@
   <include name="npcs/npc779.xml"/>
   <include name="npcs/npc780.xml"/>
   <include name="npcs/npc783.xml"/>
- <include name="npcs/npc277.xml"/>
+  <include name="npcs/npc277.xml"/>
 </npcs>
