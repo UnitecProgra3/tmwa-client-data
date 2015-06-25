@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="087">
+    <sprite>model/NpcRicardo.xml</sprite>
+  </npc>
+</npcs>

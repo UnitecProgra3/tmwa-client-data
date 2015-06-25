@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="785">
+    <sprite>model/cara.xml</sprite>
+  </npc>
+</npcs>

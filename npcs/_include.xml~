@@ -1,9 +1,12 @@
 <?xml version="1.0"?>
 <npcs>
+<<<<<<< HEAD
   <include name="npcs/npc050.xml"/>
   <include name="npcs/npc087.xml"/>
   <include name="npcs/npc022.xml"/>
+=======
   <include name="npcs/npc785.xml"/>
+>>>>>>> 8cda4eef40e6116aa926bc58f9fffe834c26cd36
   <include name="npcs/npc100.xml"/>
   <include name="npcs/npc101.xml"/>
   <include name="npcs/npc102.xml"/>
@@ -219,7 +222,6 @@
   <include name="npcs/npc777.xml"/>
   <include name="npcs/npc778.xml"/>
   <include name="npcs/npc779.xml"/>
-  <include name="npcs/npc800.xml"/>
   <include name="npcs/npc780.xml"/>
   <include name="npcs/npc783.xml"/>
   <include name="npcs/npc277.xml"/>

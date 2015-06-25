@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="783">
+    <sprite>model/KenyNPC.xml</sprite>
+  </npc>
+</npcs>
