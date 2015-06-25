@@ -1,7 +1,11 @@
 <?xml version="1.0"?>
 <npcs>
+<<<<<<< HEAD
   <include name="npcs/npc050.xml"/>
   <include name="npcs/npc087.xml"/>
+=======
+  <include name="npcs/npc022.xml"/>
+>>>>>>> 3257d5a2a6591482d59afd5ab5a25e2fcf20c6ae
   <include name="npcs/npc100.xml"/>
   <include name="npcs/npc101.xml"/>
   <include name="npcs/npc102.xml"/>
