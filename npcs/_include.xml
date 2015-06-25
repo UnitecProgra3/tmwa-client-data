@@ -3,6 +3,7 @@
   <include name="npcs/npc050.xml"/>
   <include name="npcs/npc087.xml"/>
   <include name="npcs/npc022.xml"/>
+  <include name="npcs/npc785.xml"/>
   <include name="npcs/npc100.xml"/>
   <include name="npcs/npc101.xml"/>
   <include name="npcs/npc102.xml"/>
