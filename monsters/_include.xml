@@ -135,4 +135,5 @@
   <include name="monsters/monster1150_firetrt.xml"/>
   <include name="monsters/monster1134_Kevinstein.xml"/>
   <include name="monsters/monster1361_AwillsM.xml"/>
+<include name="monsters/monster1147_chamuco.xml"/>
 </monsters>

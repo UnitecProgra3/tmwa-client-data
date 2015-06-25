@@ -1333,5 +1333,13 @@
     <property name="dest_tile_y" value="93"/>
    </properties>
   </object>
+  <object name="chamucoimvoque" type="spawn" x="32" y="3904" width="1440" height="448">
+   <properties>
+    <property name="eA_death" value="30000"/>
+    <property name="eA_spawn" value="100000"/>
+    <property name="max_beings" value="8"/>
+    <property name="monster_id" value="1147"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>
