@@ -127,6 +127,7 @@
   <include name="monsters/monster1130_Moonshroom.xml"/>
   <include name="monsters/monster1131_ManaBug.xml"/>
   <include name="monsters/monster1132_LavaSlime.xml"/>
+  <include name="monsters/monster1180_Plankton.xml"/>
   <include name="monsters/monster1133_MiMob.xml"/>  
   <include name="monsters/monster1135_KenyMob.xml"/>
   <include name="monsters/monster1134_Kevinstein.xml"/>  
@@ -134,4 +135,6 @@
   <include name="monsters/monster1160_firetrt.xml"/>
   <include name="monsters/monster1134_Kevinstein.xml"/>
   <include name="monsters/monster1361_AwillsM.xml"/>
+  <include name="monsters/monster1147_chamuco.xml"/>
+  <include name="monsters/monster1150_Patito.xml"/>
 </monsters>
