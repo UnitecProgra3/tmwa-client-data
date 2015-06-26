@@ -131,7 +131,7 @@
   <include name="monsters/monster1135_KenyMob.xml"/>
   <include name="monsters/monster1134_Kevinstein.xml"/>  
   <include name="monsters/monster1140_ReyExanime.xml"/>
-  <include name="monsters/monster1160_firetrt.xml"/>
+  <include name="monsters/monster1150_firetrt.xml"/>
   <include name="monsters/monster1134_Kevinstein.xml"/>
   <include name="monsters/monster1361_AwillsM.xml"/>
 </monsters>
