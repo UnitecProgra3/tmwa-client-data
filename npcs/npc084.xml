@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="084">
+    <sprite>model/elber.xml</sprite>
+  </npc>
+</npcs>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<sprite variants="1" variant_offset="1">
+  <!-- FOR RETRO-COMPATIBILITY WITH OLD NPCs -->
+  <imageset name="base" src="graphics/sprites/model/elber.png|W;B;R" width="50" height="50"/>
+  <include file="model/Talponian_male.xml"/>
+</sprite>
