@@ -137,4 +137,6 @@
   <include name="monsters/monster1361_AwillsM.xml"/>
   <include name="monsters/monster1147_chamuco.xml"/>
   <include name="monsters/monster1150_Patito.xml"/>
+  <include name="monsters/monster1365_Monstruos.xml"/>
+  
 </monsters>

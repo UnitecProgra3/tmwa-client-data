@@ -1340,5 +1340,13 @@
     <property name="dest_tile_y" value="92"/>
    </properties>
   </object>
+  <object name="Monstruos" type="spawn" x="864" y="256" width="256" height="32">
+   <properties>
+    <property name="eA_death" value="3000"/>
+    <property name="eA_spawn" value="10"/>
+    <property name="max_beings" value="4"/>
+    <property name="monster_id" value="1365"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>
