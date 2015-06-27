@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<npcs>
+  <npc id="278">
+    <sprite>model/fido.xml</sprite>
+  </npc>
+</npcs>
